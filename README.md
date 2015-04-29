@@ -1,2 +1,0 @@
-# Knjigovodstvo
-Projekt knjigovodstva
